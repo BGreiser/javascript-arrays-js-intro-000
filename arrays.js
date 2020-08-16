@@ -45,4 +45,4 @@ function destructivelyRemoveElementFromEndOfArray(x) {
 
 function removeElementFromEndOfArray(x) {
   return x.slice(0, x.length-1);
-}
+};
